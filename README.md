@@ -28,7 +28,7 @@ You can import texsci by adding the following line to your document's preamble:
 
 ### `\sn{}`
 
-This command should be used in math mode only. Simply pass in the exponent used for the scientific notation and texsci will render the rest. Here is a demo:
+This command should be used in _**math mode only**_. Simply pass in the exponent used for the scientific notation and texsci will render the rest. Here is a demo:
 
 ```latex
 $ 2.99 \sn{8} $
@@ -36,7 +36,7 @@ $ 2.99 \sn{8} $
 
 ### `\snt{}`
 
-This command should be used in text mode only. Simply pass in the exponent used for the scientific notation and texsci will render the rest. Here is a demo:
+This command should be used in _**text mode only**_. Simply pass in the exponent used for the scientific notation and texsci will render the rest. Here is a demo:
 
 ```latex
 2.99 \snt{8}
